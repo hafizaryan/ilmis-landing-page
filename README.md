@@ -1,2 +1,1 @@
-# ilmis-landing-page
- 
+# Integrated Laboratory Management Information System
